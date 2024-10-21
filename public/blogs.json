@@ -1,0 +1,38 @@
+[
+  {
+    "cover_img": "https://ibb.co.com/d6LvXSL",
+    "author_img": "https://ibb.co.com/16XGW17",
+    "author_name": "John Doe",
+    "post_date": "2024-10-20",
+    "reading_time": 4,
+    "title": "How to Build Your First Portfolio Website",
+    "hashtags": ["#WebDevelopment", "#Portfolio"]
+  },
+  {
+    "cover_img": "https://ibb.co.com/q5HPbZF",
+    "author_img": "https://ibb.co.com/1TZjFkJ",
+    "author_name": "Jane Smith",
+    "post_date": "2024-10-18",
+    "reading_time": 6,
+    "title": "Understanding Asynchronous JavaScript",
+    "hashtags": ["#JavaScript", "#Async"]
+  },
+  {
+    "cover_img": "https://ibb.co.com/cYsXVvH",
+    "author_img": "https://ibb.co.com/TmXMGnx",
+    "author_name": "Emily Johnson",
+    "post_date": "2024-10-15",
+    "reading_time": 3,
+    "title": "Top 5 CSS Frameworks in 2024",
+    "hashtags": ["#CSS", "#Frameworks"]
+  },
+  {
+    "cover_img": "https://ibb.co.com/VBqjvdm",
+    "author_img": "https://ibb.co.com/vhdJh8f",
+    "author_name": "Michael Lee",
+    "post_date": "2024-10-12",
+    "reading_time": 8,
+    "title": "React vs Vue: Which Should You Learn?",
+    "hashtags": ["#React", "#Vue"]
+  }
+]
